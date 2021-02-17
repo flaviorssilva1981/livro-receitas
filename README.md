@@ -3,5 +3,6 @@
 ### Ola Bem vindo ao livro receitas
 
 - Macarrao
-- ​Pave
+- Pave
 - Arroz
+- Strogonoff
